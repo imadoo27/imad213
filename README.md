@@ -1,58 +1,51 @@
-# 🛠️ imad213 – Python Automation Tool (Archived)
+# 🧠 imad213 – Advanced Instagram Backend Automation (⚙️ Private)
 
-> This project has been officially discontinued and removed from PyPI for various operational and ethical reasons. It is no longer maintained or supported.
-
----
-
-## 📌 About the Project
-
-**imad213** was developed as a Python-based automation tool originally intended for educational and testing purposes in environments such as:
-
-- Instagram interaction automation
-- Telegram bot integration
-- Frontend + backend HTML manipulation
-- Web UI testing and response logging
-
-The tool was designed to demonstrate how automation and API interaction can work together across multiple platforms, especially in ethical hacking labs and penetration testing simulations.
+> ⚠️ This tool is currently in a **private state** and not available to the public.  
+> It targets **Instagram's backend systems** for automation, simulation, and data handling.  
+> The future of this project is promising — but uncertain.
 
 ---
 
-## ❗ Project Status: Archived
+## 📌 About the Tool
 
-Due to a combination of the following reasons, I’ve chosen to officially archive and remove the tool from public repositories:
+**imad213** is an advanced backend-focused automation engine built to explore how Instagram's behind-the-scenes infrastructure can be tested, simulated, and understood from a technical perspective.
 
-- Misuse by unauthorized individuals in unintended ways  
-- Concerns raised by open-source communities about user safety  
-- Ethical and security implications related to how the tool could be exploited  
-- PyPI’s internal policies on user interaction and credential collection
+It is **not a follower-increaser or front-end spammer**. Instead, it was designed to:
 
----
-
-## 🤝 Why I Removed It
-
-While the tool had legitimate use cases in testing environments, I understand that public availability can sometimes lead to abuse.
-
-Rather than allow that, I made the decision to remove the package entirely and stop any further development.
+- Understand backend logic through automation
+- Simulate requests and user flows
+- Interact with APIs and hidden endpoints
+- Test vulnerability points in ethical contexts
 
 ---
 
-## 📦 No Further Updates
+## ⏳ Project Status: Temporarily Suspended
 
-- ✅ Codebase permanently deleted  
-- 🔒 No new releases or forks permitted  
-- 📭 Inquiries are welcome for private collaborations or research purposes
+This project is currently **unreleased** due to multiple factors:
 
----
-
-## 📩 Contact
-
-> For serious professional inquiries or to collaborate on ethical security projects:
-
-📧 *You can add your contact email here later*
+- Potential misuse by unauthorized users
+- Security concerns and ethical limitations
+- Platform policies (such as PyPI restrictions)
+- Ongoing internal development and refactoring
 
 ---
 
-Thank you to everyone who used the tool responsibly.
+## 🌐 Will it Be Released?
 
-With respect,  
-**imad213**
+That is unknown.
+
+While the project has **clear potential and a future in automation/security research**, its public release **may never happen** — or could happen at an unexpected time.
+
+If you're interested in serious backend-level tools and automation focused on platforms like Instagram, this is a project worth watching.
+
+---
+
+## 📩 Contact / Interest
+
+> For research inquiries, ethical testing partnerships, or collaboration:  
+📧 *[Your email can go here]*
+
+---
+
+Thank you for your interest in **imad213**.  
+Its journey is not over — it's just not public… yet.
