@@ -1,5 +1,8 @@
 # 🧠 imad213 – Advanced Instagram Backend Automation (⚙️ Private)
 
+> 🔐 **Notice:** A new encryption tool was created on **June 2** to encrypt Python scripts using military-grade algorithms (AES-256-GCM + RSA-4096).  
+> Try it here: [https://github.com/imadoo27/imad213rsa](https://github.com/imadoo27/imad213rsa)
+
 > ⚠️ This tool is currently in a **private state** and not available to the public.  
 > It targets **Instagram's backend systems** for automation, simulation, and data handling.  
 > The future of this project is promising — but uncertain.
@@ -12,10 +15,10 @@
 
 It is **not a follower-increaser or front-end spammer**. Instead, it was designed to:
 
-- Understand backend logic through automation
-- Simulate requests and user flows
-- Interact with APIs and hidden endpoints
-- Test vulnerability points in ethical contexts
+- Understand backend logic through automation  
+- Simulate requests and user flows  
+- Interact with APIs and hidden endpoints  
+- Test vulnerability points in ethical contexts  
 
 ---
 
@@ -23,10 +26,10 @@ It is **not a follower-increaser or front-end spammer**. Instead, it was designe
 
 This project is currently **unreleased** due to multiple factors:
 
-- Potential misuse by unauthorized users
-- Security concerns and ethical limitations
-- Platform policies (such as PyPI restrictions)
-- Ongoing internal development and refactoring
+- Potential misuse by unauthorized users  
+- Security concerns and ethical limitations  
+- Platform policies (such as PyPI restrictions)  
+- Ongoing internal development and refactoring  
 
 ---
 
@@ -43,7 +46,7 @@ If you're interested in serious backend-level tools and automation focused on pl
 ## 📩 Contact / Interest
 
 > For research inquiries, ethical testing partnerships, or collaboration:  
-📧 *[Your email can go here]*
+📧 **madmadimado59@gmail.com**
 
 ---
 
