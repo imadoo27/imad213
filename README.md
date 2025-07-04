@@ -1,54 +1,76 @@
 # 🧠 imad213 – Advanced Instagram Backend Automation (⚙️ Private)
 
-> 🔐 **Notice:** A new encryption tool was created on **June 2** to encrypt Python scripts using military-grade algorithms (AES-256-GCM + RSA-4096).  
+> 🔐 **New:** A powerful encryption tool was released on **June 2**, using AES-256-GCM + RSA-4096 to protect your Python scripts.  
 > Try it here: [https://github.com/imadoo27/imad213rsa](https://github.com/imadoo27/imad213rsa)
 
-> ⚠️ This tool is currently in a **private state** and not available to the public.  
-> It targets **Instagram's backend systems** for automation, simulation, and data handling.  
-> The future of this project is promising — but uncertain.
+> ⚠️ This tool is currently private and not publicly accessible.  
+It focuses on **Instagram backend systems** for real automation, API interaction, and vulnerability testing.
 
 ---
 
 ## 📌 About the Tool
 
-**imad213** is an advanced backend-focused automation engine built to explore how Instagram's behind-the-scenes infrastructure can be tested, simulated, and understood from a technical perspective.
+**imad213** is a professional-grade backend automation toolkit for deep technical exploration of Instagram's internal architecture.
 
-It is **not a follower-increaser or front-end spammer**. Instead, it was designed to:
+Unlike basic spam tools or follower boosters, this toolkit provides:
 
-- Understand backend logic through automation  
-- Simulate requests and user flows  
-- Interact with APIs and hidden endpoints  
-- Test vulnerability points in ethical contexts  
-
----
-
-## ⏳ Project Status: Temporarily Suspended
-
-This project is currently **unreleased** due to multiple factors:
-
-- Potential misuse by unauthorized users  
-- Security concerns and ethical limitations  
-- Platform policies (such as PyPI restrictions)  
-- Ongoing internal development and refactoring  
+- Backend request simulation  
+- API and hidden endpoint interaction  
+- Ethical vulnerability testing  
+- Real automation and data flow analysis
 
 ---
 
-## 🌐 Will it Be Released?
+## 💰 Instagram Vulnerability For Sale (Real & Working)
 
-That is unknown.
+An **Instagram backend vulnerability** is currently being offered for **$300**:
 
-While the project has **clear potential and a future in automation/security research**, its public release **may never happen** — or could happen at an unexpected time.
+- Includes a **working Proof-of-Concept**  
+- Comes with full technical documentation + usage toolkit  
+- Designed for automation experts and advanced researchers  
+- Integrates with the upcoming **Send Followers** engine
 
-If you're interested in serious backend-level tools and automation focused on platforms like Instagram, this is a project worth watching.
+> 🧩 **Important Note:**  
+Once you obtain this vulnerability and toolkit, with **proper usage**, you can potentially **achieve your ultimate Instagram goals**.  
+Due to the nature of the exploit, **no more public info can be shared** — the vulnerability is **still active and unpatched**.
 
 ---
 
-## 📩 Contact / Interest
+## 🚀 Coming Soon: Official Release on PyPI
 
-> For research inquiries, ethical testing partnerships, or collaboration:  
+> The wait is almost over...
+
+The full **imad213 package** is set to return and will soon be published officially on **PyPI** under the name:
+
+```
+imad_213_213
+```
+
+This release will include:
+
+- Encrypted and ready-to-use backend automation tools  
+- Full integration with the exploit  
+- The powerful "Send Followers" feature  
+- Clean documentation and easy setup  
+
+Stay tuned — the return of **imad213** is near.  
+A new era of backend control on Instagram is about to begin.
+
+---
+
+## 🛡️ Legal Disclaimer
+
+This project is intended **only for legal, ethical, and research purposes**.  
+Unauthorized or malicious use is strictly forbidden.
+
+---
+
+## 📩 For Purchase / Business Contact
+
+To purchase the vulnerability and toolkit, or for business-related inquiries:  
 📧 **madmadimado59@gmail.com**
 
 ---
 
 Thank you for your interest in **imad213**.  
-Its journey is not over — it's just not public… yet.
+Its journey isn’t over — it’s just about to get public…
