@@ -43,7 +43,7 @@ Due to the nature of the exploit, **no more public info can be shared** — the 
 The full **imad213 package** is set to return and will soon be published officially on **PyPI** under the name:
 
 ```
-imad_213_213
+username pypi : imad_213_213
 ```
 
 This release will include:
