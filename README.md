@@ -40,7 +40,6 @@ Unlike simple spam tools, this toolkit enables:
 
 * Backend request simulation
 * Hidden API endpoint access
-* Ethical vulnerability testing
 * Real data flow automation
 
 ---
