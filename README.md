@@ -1,7 +1,6 @@
 
 ---
 
-
 # 🧠 imad213 – Advanced Instagram Backend Automation (⚙️ Official Release)
 
 > ✅ **As promised, the imad213 package is finally back.**
@@ -25,6 +24,10 @@ imad213tools
 
 This tool was rebuilt to function clearly and efficiently, ensuring **real follower delivery** with minimal effort.
 Enjoy the powerful return of **imad213** — rebuilt and ready for action.
+
+> ⚠️ **Note:** This concerns the `imad213tools` tool, which was previously known as `imad213`. The original tool is currently inactive.
+> For updates and direct contact regarding the tool, please visit Instagram:
+> 📱 [**@imad\_213\_213**](https://instagram.com/imad_213_213)
 
 ---
 
