@@ -4,6 +4,8 @@
 
 > **Version 2.0+** - Completely rebuilt with security-first architecture and full transparency.
 
+🔗 **PyPI Project Link:** [https://pypi.org/project/imad213insta/](https://pypi.org/project/imad213insta/)
+
 ---
 
 ## Why the Rebranding?
@@ -27,18 +29,18 @@ The original **Imad213** contained features that could manipulate Instagram acco
 
 ### Security & Safety
 
-✅ **Full Security Audit** - Independent verification confirms safe operation
-✅ **Removed Unsafe Features** - All account manipulation capabilities eliminated
-✅ **Temporary Accounts Only** - Designed exclusively for test/temporary accounts
-✅ **Rate Limiting** - Built-in protections against API abuse
-✅ **Transparent Logging** - All operations are auditable
+✅ **Full Security Audit** - Independent verification confirms safe operation  
+✅ **Removed Unsafe Features** - All account manipulation capabilities eliminated  
+✅ **Temporary Accounts Only** - Designed exclusively for test/temporary accounts  
+✅ **Rate Limiting** - Built-in protections against API abuse  
+✅ **Transparent Logging** - All operations are auditable  
 
 ### Features
 
-📊 **Analytics Simulation** - Learn how Instagram engagement metrics work
-💬 **Safe Commenting** - Post comments in controlled, ethical environments
-👁️ **View Tracking** - Understand view dynamics without affecting real accounts
-🔍 **Research Tools** - Explore Instagram's engagement algorithms safely
+📊 **Analytics Simulation** - Learn how Instagram engagement metrics work  
+💬 **Safe Commenting** - Post comments in controlled, ethical environments  
+👁️ **View Tracking** - Understand view dynamics without affecting real accounts  
+🔍 **Research Tools** - Explore Instagram's engagement algorithms safely  
 
 ---
 
@@ -46,7 +48,7 @@ The original **Imad213** contained features that could manipulate Instagram acco
 
 ```bash
 pip install imad213insta
-```
+````
 
 ---
 
@@ -77,7 +79,6 @@ Follow the on-screen instructions. **Always use a temporary/test account.**
 * Violate Instagram's Terms of Service
 
 ---
-
 
 ### Independent Verification
 
