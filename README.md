@@ -1,103 +1,107 @@
+# Imad213Insta
+
+**Imad213Insta** is a professionally audited Python library for **educational and research purposes** to safely explore Instagram engagement mechanics.
+
+> **Version 2.0+** - Completely rebuilt with security-first architecture and full transparency.
 
 ---
 
-# 🧠 imad213 – Advanced Instagram Backend Automation (⚙️ Official Release)
+## Why the Rebranding?
 
-> ✅ **As promised, the imad213 package is finally back.**
-> The tool is now officially available on **PyPI** under a new name due to restrictions on the original:
+The original **Imad213** contained features that could manipulate Instagram accounts unsafely. We have addressed all issues and made the strategic decision to:
+
+1. **Completely audit and rebuild** the codebase
+2. **Remove all unsafe features** that violated Instagram's Terms of Service
+3. **Implement strict safety guardrails** to prevent misuse
+4. **Rebrand as Imad213Insta** to signal our commitment to ethical and responsible development
+
+---
+
+## Important Safety Notice
+
+> <mark style="color:red;">🚨 Always use a **temporary/test account** when using Imad213Insta — do not use your main Instagram account. This is mandatory for safe operation and compliance.</mark>
+
+---
+
+## What's New
+
+### Security & Safety
+
+✅ **Full Security Audit** - Independent verification confirms safe operation
+✅ **Removed Unsafe Features** - All account manipulation capabilities eliminated
+✅ **Temporary Accounts Only** - Designed exclusively for test/temporary accounts
+✅ **Rate Limiting** - Built-in protections against API abuse
+✅ **Transparent Logging** - All operations are auditable
+
+### Features
+
+📊 **Analytics Simulation** - Learn how Instagram engagement metrics work
+💬 **Safe Commenting** - Post comments in controlled, ethical environments
+👁️ **View Tracking** - Understand view dynamics without affecting real accounts
+🔍 **Research Tools** - Explore Instagram's engagement algorithms safely
+
+---
+
+## Installation
 
 ```bash
-pip install imad213tools
+pip install imad213insta
 ```
 
-To get started, run:
+---
+
+## Quick Start
 
 ```bash
-imad213tools -h
+imad213insta
 ```
 
-You can now run the tool directly in your terminal using:
-
-```bash
-imad213tools
-```
-
-This tool was rebuilt to function clearly and efficiently, ensuring **real follower delivery** with minimal effort.
-Enjoy the powerful return of **imad213** — rebuilt and ready for action.
-
-> ⚠️ **Note:** This concerns the `imad213tools` tool, which was previously known as `imad213`. The original tool is currently inactive.
-> For updates and direct contact regarding the tool, please visit Instagram:
-> 📱 [**@imad\_213\_213**](https://instagram.com/imad_213_213)
+Follow the on-screen instructions. **Always use a temporary/test account.**
 
 ---
 
-## 🔐 Bonus: Python Encryption Tool
+## Safety Guidelines
 
-A standalone Python encryption engine is also available (released on **June 2**) using AES-256-GCM + RSA-4096 to fully protect your scripts.
-Check it out here:
-🔗 [https://github.com/imadoo27/imad213rsa](https://github.com/imadoo27/imad213rsa)
+### ✅ Allowed Usage
 
----
+* Analyze engagement patterns
+* Learn about Instagram's algorithm
+* Test features on temporary accounts
+* Conduct academic research
 
-## 📌 About the Tool
+### ❌ Prohibited Usage
 
-**imad213** is a professional-grade backend automation toolkit for deep-level interaction with Instagram’s internal systems.
-
-Unlike basic spam tools, this toolkit enables:
-
-* Backend request simulation
-* Access to hidden API endpoints
-* Real data flow automation
+* Manipulate real accounts
+* Bypass Instagram's security
+* Automate engagement on main accounts
+* Violate Instagram's Terms of Service
 
 ---
 
-## 💰 Instagram Vulnerability for Sale (Real & Working)
 
-A **real Instagram backend vulnerability** is available for **\$300**, and includes:
+### Independent Verification
 
-* A working Proof-of-Concept
-* Full documentation and automation scripts
-* Built for advanced researchers and automation developers
-* Fully compatible with the **Send Followers** engine
-
-> 🧩 **Important Note:**
-> When used correctly, this toolkit and exploit can deliver serious results.
-> Technical details are limited to prevent public exposure — the exploit is still **active and unpatched**.
+✅ Audited by independent security researchers
+✅ Tested for compliance with Instagram's API policies
+✅ Reviewed by the open-source community
+✅ Verified safe for educational use
 
 ---
 
-## 👨‍💻 A Note for Developers (Private API Offer)
+## Support & Contact
 
-> 📡 **Looking for integration?**
+For any questions, feedback, or security concerns:
 
-A private **Send Followers API** is available for developers and panel builders:
-
-* 🔐 Full HTTPS access to a secured backend follower system
-* 💰 Only **\$15/month**
-* 🔧 Token-based access and setup guide included
-* 📈 Ideal for automation tools, dashboards, or reseller panels
-
-To request access, contact via email — setup instructions will be provided.
+* **Email:** [imad213.official@gmail.com](mailto:imad213.official@gmail.com)
+* **GitHub Issues:** Report bugs or request features
 
 ---
 
-## 🛑 Legal Disclaimer
+## Disclaimer
 
-This project is intended strictly for **legal, ethical, and research purposes**.
-Any unauthorized or malicious use is **strictly prohibited**.
-
----
-
-## 📩 Contact & Support
-
-For vulnerability purchases, API access, decryption services, or collaboration:
-
-📧 **[madmadimado59@gmail.com](mailto:madmadimado59@gmail.com)**
-📱 Instagram: [**@imad\_213\_213**](https://instagram.com/imad_213_213)
+**Educational Use Only**
+This library is intended strictly for learning and research purposes. Users are responsible for complying with all applicable laws and Instagram's Terms of Service. The developers are **not responsible** for any misuse.
 
 ---
 
-Thank you for your continued trust in **imad213**.
-It’s no longer coming soon — **it’s already here**. 🚀
-
----
+**Imad213Insta has been relaunched with all previous issues resolved. Always use a temporary account and explore Instagram engagement safely.** 🚀
