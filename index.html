@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>دردشة ذكية</title>
+<style>
+body { font-family: sans-serif; background: #f2f2f2; display:flex; justify-content:center; padding:20px; height:100vh; margin:0;}
+#chat-container { width:100%; max-width:500px; background:#fff; border-radius:12px; display:flex; flex-direction:column; height:80vh;}
+#messages { flex:1; overflow-y:auto; padding:10px;}
+.message { margin:5px 0; padding:8px 12px; border-radius:12px; max-width:80%;}
+.user { background:#667eea; color:#fff; align-self:flex-end;}
+.bot { background:#f0f0f0; color:#333; align-self:flex-start;}
+#input-area { display:flex; border-top:1px solid #ddd;}
+#input { flex:1; padding:10px; border:none; outline:none;}
+#send { padding:0 15px; border:none; background:#667eea; color:#fff; cursor:pointer;}
+</style>
+</head>
+<body>
+<div id="chat-container">
+    <div id="messages"></div>
+    <div id="input-area">
+        <input id="input" type="text" placeholder="اكتب رسالتك...">
+        <button id="send">إرسال</button>
+    </div>
+</div>
+
+<script>
+const input = document.getElementById("input");
+const sendBtn = document.getElementById("send");
+const messages = document.getElementById("messages");
+
+// رابط Heroku للسيرفر
+const API_URL = "https://ai-0-7467c0f71af8.herokuapp.com/chat";
+const SECRET_KEY = "supersecretkey123"; // نفس المفتاح الداخلي في بايثون
+
+function generateSignature(message, timestamp){
+    return sha256(`${message}|${timestamp}|${SECRET_KEY}`);
+}
+
+// SHA256 بسيط بالـ JS
+async function sha256(msg) {
+    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(msg));
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,"0")).join("");
+}
+
+async function sendMessage() {
+    const text = input.value.trim();
+    if(!text) return;
+    addMessage(text, "user");
+    input.value = "";
+
+    const msgEl = document.createElement("div");
+    msgEl.className = "message bot";
+    msgEl.textContent = "جاري الرد...";
+    messages.appendChild(msgEl);
+    messages.scrollTop = messages.scrollHeight;
+
+    const timestamp = Math.floor(Date.now()/1000);
+    const signature = await sha256(`${text}|${timestamp}|${SECRET_KEY}`);
+
+    try {
+        const res = await fetch(API_URL, {
+            method: "POST",
+            headers: {"Content-Type":"application/json"},
+            body: JSON.stringify({message:text, timestamp, signature})
+        });
+        const data = await res.json();
+        msgEl.textContent = data.reply || data.error;
+    } catch(err) {
+        msgEl.textContent = "❌ حدث خطأ";
+        console.error(err);
+    }
+}
+
+function addMessage(text, sender){
+    const msg = document.createElement("div");
+    msg.className = "message " + sender;
+    msg.textContent = text;
+    messages.appendChild(msg);
+    messages.scrollTop = messages.scrollHeight;
+}
+
+sendBtn.onclick = sendMessage;
+input.addEventListener("keypress", e => { if(e.key === "Enter") sendMessage(); });
+</script>
+</body>
+</html>
